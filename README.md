@@ -1,7 +1,7 @@
 ---
-title: PDFSummariser
-emoji: 🚀
-colorFrom: blue
+title: PDF Summariser
+emoji: 💬
+colorFrom: yellow
 colorTo: red
 sdk: gradio
 sdk_version: 4.42.0
